@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+nltk
+torch
+transformers
+accelerate
+scikit-learn
+sentencepiece
+datasets
+tiktoken
+protobuf
